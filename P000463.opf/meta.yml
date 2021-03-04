@@ -1,15 +1,16 @@
-id: opecha:P000463
+id: P000463
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS19449
   title: དངོས་གཞིའི་ཟིན་བྲིས་བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མེ།
-  volume:
+  author: ''
+  volumes:
     fee5fcdf5f654280bcb2b74f01b81ec5:
       image_group_id: I8LS19451
       title: Volume 1 of dngos gzhi'i zin bris byang chub lam gyi sgron me/
       volume_number: 1
       total_pages: 104
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དངོས་གཞིའི་ཟིན་བྲིས་བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མེ།
   author: ''
